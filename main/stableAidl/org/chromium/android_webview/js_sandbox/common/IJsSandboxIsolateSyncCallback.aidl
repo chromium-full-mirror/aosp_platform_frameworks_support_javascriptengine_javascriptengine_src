@@ -16,6 +16,8 @@
 
 package org.chromium.android_webview.js_sandbox.common;
 
+import android.content.res.AssetFileDescriptor;
+
 /**
  * Used to communicate the result of the JavaScript evaluation from the
  * sandbox to the embedding app.
